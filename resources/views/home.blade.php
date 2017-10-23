@@ -172,10 +172,9 @@
       });
 
       $('#sectHomeHideReadMoreBtn').click(function(){
-      $('#sectHomeReadMoreBtnHolder').show();
-      $('#sectHomeReadMoreBtnHolder').animateCss('fadeIn', false);
-
-      $('#sectHomeReadMore').animateCss('fadeOut', true);
+        $('#sectHomeReadMoreBtnHolder').show();
+        $('#sectHomeReadMoreBtnHolder').animateCss('fadeIn', false);
+        $('#sectHomeReadMore').animateCss('fadeOut', true);
       });
     });
   </script>

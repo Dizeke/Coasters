@@ -42,7 +42,7 @@ Route::get('/contact-us/failed', function(){
 });
 
 Route::get('/download/brochure', function(){
-  $file= public_path(). "/coaster.pdf";
+  $file = public_path(). "/coasters.pdf";
   $headers = array(
    'Content-Type: application/pdf',
   );
