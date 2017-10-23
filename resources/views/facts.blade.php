@@ -33,42 +33,6 @@
   <script type="text/javascript">
     $(document).ready(function() {
       $('#navFacts').addClass('active');
-
-      //Used for categorized
-      // $('.divGCI > .row > .col > .c100 > .count').each(function (){
-      //   $(this).prop('Counter',0).animate({
-      //       Counter: $(this).text()
-      //   }, {
-      //       duration: 2500,
-      //       easing: 'swing',
-      //       step: function (now) {
-      //         $(this).text(Math.ceil(now));
-      //         var currentNumber = $(this).text();
-      //         $(this).text(Math.ceil(now) + "%");
-      //
-      //         var parentId = $(this).closest('div').attr('id');
-      //
-      //         if(parentId == 'fact1'){
-      //           $(this).closest('div').attr('class', 'p' + currentNumber + ' c100 big cgreen center');
-      //         } else if(parentId == 'fact2'){
-      //           $(this).closest('div').attr('class', 'p' + currentNumber + ' c100 big cred2 center');
-      //         } else if(parentId == 'fact3'){
-      //           $(this).closest('div').attr('class', 'p' + currentNumber + ' c100 big camber4 center');
-      //         } else if(parentId == 'fact4'){
-      //           $(this).closest('div').attr('class', 'p' + currentNumber + ' c100 big cblue2 center');
-      //         } else if(parentId == 'fact5'){
-      //           $(this).closest('div').attr('class', 'p' + currentNumber + ' c100 big cteal2 center');
-      //         } else if(parentId == 'fact6'){
-      //           $(this).closest('div').attr('class', 'p' + currentNumber + ' c100 big cbgrey2 center');
-      //         } else if(parentId == 'fact7'){
-      //           $(this).closest('div').attr('class', 'p' + currentNumber + ' c100 big cdorange2 center');
-      //         } else if(parentId == 'fact8'){
-      //           $(this).closest('div').attr('class', 'p' + currentNumber + ' c100 big cred4 center');
-      //         }
-      //       }
-      //   });
-
-      });
     });
   </script>
 

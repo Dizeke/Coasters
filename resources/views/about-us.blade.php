@@ -20,7 +20,7 @@
         <div class="card" style="background: rgba(0, 0, 0, 0.7); border-radius: 8px;">
           <div class="card-content">
 
-            <h4 class="highlight"><b>Why advertise with coasters.ph?</b></h4>
+            <h4 class="highlight">Why advertise with coasters.ph?</h4>
 
             <blockquote class="white-text">
               Coasters.ph offers companies a unique advertising concept. Our concept is affordable
@@ -65,14 +65,14 @@
         <div class="card" style="background: rgba(0, 0, 0, 0.7); border-radius: 8px;">
           <div class="card-content">
 
-            <h4 class="highlight"><b>How do we work?</b></h4>
+            <h4 class="highlight">How do we work?</h4>
 
             <blockquote class="white-text">
               We offer coasters from Asia and Europe.
               This allows us to offer a wide range of quality and prices to meet your specific requirements.
                We will work together with you to calculate the amounts of coasters you will be needing.
                One of our consultants from Coasters.ph will ensure that you won’t overorder.
-               All our coasters have logos or advertisement on both sides to ensure your brand or business is always seen by potential clients. 
+               All our coasters have logos or advertisement on both sides to ensure your brand or business is always seen by potential clients.
             </blockquote>
 
           </div>
@@ -87,7 +87,7 @@
         <div class="card" style="background: rgba(0, 0, 0, 0.7); border-radius: 8px;">
           <div class="card-content">
 
-            <h4 class="highlight"><b>Our method</b></h4>
+            <h4 class="highlight">Our method</h4>
 
             <blockquote class="white-text">
               Coasters.ph makes sure that bars, hotels, restaurants and clubs get the coasters for free.

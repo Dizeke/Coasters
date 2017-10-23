@@ -1,6 +1,6 @@
 <br>
 
-<div class="row">
+<div class="row" style="width: 90%; margin-left: 5%;">
 
   <div class="hide-on-small-only">
     <br><br>
@@ -19,7 +19,7 @@
         </div>
       </div>
 
-      <div class="card-action" style="min-height: 213px;">
+      <div class="card-action valign-wrapper" style="min-height: 220px;">
         <h5 class="white-text">
           <strong class="teal-text text-darken-2">75% </strong>
           of the customers
@@ -48,7 +48,7 @@
         </div>
       </div>
 
-      <div class="card-action" style="min-height: 213px;">
+      <div class="card-action valign-wrapper" style="min-height: 220px;">
         <h5 class="white-text">
           <strong class="deep-orange-text text-darken-2">92% </strong>
           of all hotel, restaurant, bar and club visitors
@@ -74,7 +74,7 @@
         </div>
       </div>
 
-      <div class="card-action" style="min-height: 213px;">
+      <div class="card-action valign-wrapper" style="min-height: 220px;">
         <h5 class="white-text">
           <strong class="red-text text-darken-4">45% </strong>
           of the coasters are
@@ -101,7 +101,7 @@
         </div>
       </div>
 
-      <div class="card-action" style="min-height: 200px;">
+      <div class="card-action valign-wrapper" style="min-height: 220px;">
         <h5 class="white-text">
           <strong class="green-text text-darken-1">90%</strong> of the coasters
           <strong class="green-text text-darken-1">end up in a different location.</strong> Each coaster will have many viewers.

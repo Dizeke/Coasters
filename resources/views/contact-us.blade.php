@@ -18,16 +18,16 @@
 
         <br>
 
-        <div class="card" style="background: rgba(255, 255, 255, 1); border-radius: 8px;">
+        <div class="card" style="background: rgba(0, 0, 0, 0.9); border-radius: 8px;">
           <div class="card-content">
 
-            <h4 class="center-align highlight"><b>Get In Touch</b></h4>
+            <h4 class="center-align highlight">Get In Touch</h4>
             <br>
 
             <div class="row">
               <div class="col s10 offset-s1 m8 offset-m2">
                 <div class="input-field">
-                  <input type="text" name="company_name" class="validate" maxlength="64" minlength="2" required>
+                  <input type="text" name="company_name" class="validate white-text" maxlength="64" minlength="2" required>
                   <label>Company Name</label>
                 </div>
               </div>
@@ -36,14 +36,14 @@
             <div class="row">
               <div class="col s10 offset-s1 m4 offset-m2">
                 <div class="input-field">
-                  <input type="text" name="fname" class="validate" maxlength="64" minlength="2" required>
+                  <input type="text" name="fname" class="validate white-text" maxlength="64" minlength="2" required>
                   <label>First Name</label>
                 </div>
               </div>
 
               <div class="col s10 offset-s1 m4">
                 <div class="input-field">
-                  <input type="text" name="lname" class="validate" maxlength="64" minlength="2" required>
+                  <input type="text" name="lname" class="validate white-text" maxlength="64" minlength="2" required>
                   <label>Last Name</label>
                 </div>
               </div>
@@ -52,14 +52,14 @@
             <div class="row">
               <div class="col s10 offset-s1 m4 offset-m2">
                 <div class="input-field">
-                  <input type="email" name="email" class="validate" maxlength="255" required>
+                  <input type="email" name="email" class="validate white-text" maxlength="255" required>
                   <label>Email</label>
                 </div>
               </div>
 
               <div class="col s10 offset-s1 m4">
                 <div class="input-field">
-                  <input type="number" name="phone" class="validate no-spinners" maxlength="13" minlength="7" required>
+                  <input type="number" name="phone" class="validate no-spinners white-text" maxlength="13" minlength="7" required>
                   <label>Phone</label>
                 </div>
               </div>
@@ -68,30 +68,30 @@
             <div class="row">
               <div class="col s10 offset-s1 m8 offset-m2">
                 <div class="input-field">
-                <textarea name="comment" class="materialize-textarea validate" maxlength="2048" data-length="2048" minlength="8" required></textarea>
+                <textarea name="comment" class="materialize-textarea validate white-text" maxlength="2048" data-length="2048" minlength="8" required></textarea>
                 <label>Comment</label>
                 </div>
               </div>
             </div>
 
-          </div>
+          </div> <!-- End of Card Content -->
 
           <div class="card-action">
-            <div class="col s10 offset-s1 m4 offset-m2">
-              <p><button type="submit" class="btn waves-effect waves-light grey darken-2">
+            <div class="col s12 m4 offset-m2">
+              <p><a href="/download/brochure" style="color: #b388ff;">
+                Download Brochure <i class="material-icons left">file_download</i>
+              </a></p>
+            </div>
+
+            <div class="col s12 m3 offset-m1">
+              <p class="center-align"><button type="submit" class="btn waves-effect waves-light grey darken-2" style="width: 100%;">
                 Send <i class="material-icons right">send</i>
               </button></p>
             </div>
 
-            <div class="col s10 offset-s1 m6">
-              <p><a href="/download/brochure"><button type="button" class="btn waves-effect waves-light grey darken-2">
-                Download Brochure <i class="material-icons left">file_download</i>
-              </button></a></p>
-            </div>
-
             <div class="clearfix"></div>
-          </div>
-        </div>
+          </div> <!-- End of Card Action -->
+        </div> <!-- End of Card-->
 
       </div>
     </div>
