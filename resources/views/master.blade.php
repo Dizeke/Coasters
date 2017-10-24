@@ -16,7 +16,8 @@
     {{-- <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/> --}}
 
     <!-- Custom Font -->
-    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css?family=Passion+One|Raleway" rel="stylesheet"> 
+    {{-- <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">  --}}
     {{-- <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet"> --}}
     {{-- <link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet"> --}}
     {{-- <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"> --}}

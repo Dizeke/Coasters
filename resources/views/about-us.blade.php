@@ -12,7 +12,7 @@
 @section('content')
   <div class="clearfix"><br></div>
 
-  <div class="container">
+  <div class="" style="width: 90%; margin-left: 5%;">
 
     <div class="row slideInLeftTrigger" style="visibility: hidden">
       <div class="col s12">
@@ -20,9 +20,9 @@
         <div class="card" style="background: rgba(0, 0, 0, 0.7); border-radius: 8px;">
           <div class="card-content">
 
-            <h4 class="highlight">Why advertise with coasters.ph?</h4>
+            <h3 class="highlight">Why advertise with coasters.ph?</h3>
 
-            <blockquote class="white-text">
+            <blockquote class="white-text flow-text">
               Coasters.ph offers companies a unique advertising concept. Our concept is affordable
               and noticed by the majority. Don't spend a lot of money on billboards when you can target
               your customers in an easier way. This is a new marketing concept that has proved itself
@@ -65,9 +65,9 @@
         <div class="card" style="background: rgba(0, 0, 0, 0.7); border-radius: 8px;">
           <div class="card-content">
 
-            <h4 class="highlight">How do we work?</h4>
+            <h3 class="highlight">How do we work?</h3>
 
-            <blockquote class="white-text">
+            <blockquote class="white-text flow-text">
               We offer coasters from Asia and Europe.
               This allows us to offer a wide range of quality and prices to meet your specific requirements.
                We will work together with you to calculate the amounts of coasters you will be needing.
@@ -87,9 +87,9 @@
         <div class="card" style="background: rgba(0, 0, 0, 0.7); border-radius: 8px;">
           <div class="card-content">
 
-            <h4 class="highlight">Our method</h4>
+            <h3 class="highlight">Our method</h3>
 
-            <blockquote class="white-text">
+            <blockquote class="white-text flow-text">
               Coasters.ph makes sure that bars, hotels, restaurants and clubs get the coasters for free.
               We receive the number of coasters you will use and the number of client
               visits in a month. With these numbers, we can calculate an ad price for the companies that want to advert

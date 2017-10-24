@@ -92,7 +92,7 @@
 
     <div class="card" style="background: rgba(0, 0, 0, 0.7); border-radius: 8px;">
       <div class="card-content">
-        <div id="fact1" class="c100 p0 center">
+        <div id="fact4" class="c100 p0 center">
           <span class="count">90%</span>
           <div class="slice">
               <div class="bar"></div>
@@ -103,8 +103,8 @@
 
       <div class="card-action valign-wrapper" style="min-height: 220px;">
         <h5 class="white-text">
-          <strong class="green-text text-darken-1">90%</strong> of the coasters
-          <strong class="green-text text-darken-1">end up in a different location.</strong> Each coaster will have many viewers.
+          <strong class="blue-text text-darken-2">90%</strong> of the coasters
+          <strong class="blue-text text-darken-2">end up in a different location.</strong> Each coaster will have many viewers.
         </h5>
         <br class="hide-on-small-only">
       </div>

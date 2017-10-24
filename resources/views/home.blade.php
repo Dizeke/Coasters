@@ -16,7 +16,7 @@
       <div class="clearfix"><br><br></div>
 
       <div class="col s12">
-        <div class="card z-depth-3" style="background: rgba(0, 0, 0, 0.7); border-radius: 8px;">
+        <div class="card z-depth-3" style="background: rgba(0, 0, 0, 0.8); border-radius: 8px;">
 
           <div class="card-content">
 
@@ -24,12 +24,11 @@
             <div class="row hide-on-small-only">
 
               <div class="col s12 animated bounceIn">
-                <div class="carousel carousel-slider" style="width: 60%; margin-left: 20%;">
-                  <a class="carousel-item" href="#"><img class="responsive-img" src="img/coaster1.png" style="height: 250px;"></a>
-                  <a class="carousel-item" href="#"><img class="responsive-img" src="img/coaster2.png" style="height: 250px;"></a>
-                  <a class="carousel-item" href="#"><img class="responsive-img" src="img/coaster3.png" style="height: 250px;"></a>
-                  <a class="carousel-item" href="#"><img class="responsive-img" src="img/coaster4.png" style="height: 250px;"></a>
-                  <a class="carousel-item" href="#"><img class="responsive-img" src="img/coaster5.png" style="height: 250px;"></a>
+                <div class="carousel carousel-slider" style="width: 50%; margin-left: 25%;">
+                  <a class="carousel-item" href="#"><img class="responsive-img" src="img/coaster1.png" style="height: 300px;"></a>
+                  <a class="carousel-item" href="#"><img class="responsive-img" src="img/coaster2.png" style="height: 300px;"></a>
+                  <a class="carousel-item" href="#"><img class="responsive-img" src="img/coaster4.png" style="height: 300px;"></a>
+                  <a class="carousel-item" href="#"><img class="responsive-img" src="img/coaster5.png" style="height: 300px;"></a>
                 </div>
 
                 <br>
@@ -40,7 +39,7 @@
                 <h4 class="highlight center-align animated pulse"><b>Why advertise with Coasters.ph?</b></h4>
                 <blockquote class="animated fadeIn flow-text white-text">
                 Coasters.ph offers companies a unique advertising concept. Our concept is target market oriented, noticed by the majority and very affordable.
-                <b style="color: #b388ff !important;">Don't spend a lot of money on billboards, social media campaigns, flyers and posters when you can target your specific customers in an easy and affordable way.</b>
+                <span class="standout">Don't spend a lot of money on billboards, social media campaigns, flyers and posters when you can target your specific customers in an easy and affordable way.</span>
                 </blockquote>
 
               </div>
@@ -65,7 +64,6 @@
                 <div class="carousel carousel-slider">
                   <a class="carousel-item" href="#"><img class="responsive-img" src="img/coaster1.png"></a>
                   <a class="carousel-item" href="#"><img class="responsive-img" src="img/coaster2.png"></a>
-                  <a class="carousel-item" href="#"><img class="responsive-img" src="img/coaster3.png"></a>
                   <a class="carousel-item" href="#"><img class="responsive-img" src="img/coaster4.png"></a>
                   <a class="carousel-item" href="#"><img class="responsive-img" src="img/coaster5.png"></a>
                 </div>

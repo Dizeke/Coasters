@@ -21,7 +21,7 @@
         <div class="card" style="background: rgba(0, 0, 0, 0.9); border-radius: 8px;">
           <div class="card-content">
 
-            <h4 class="center-align highlight">Get In Touch</h4>
+            <h3 class="center-align highlight">Get In Touch</h3>
             <br>
 
             <div class="row">

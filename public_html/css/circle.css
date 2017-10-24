@@ -879,6 +879,9 @@
 }
 
 /* Red 2 */
+.c100.cred2 > span{
+  color: #d32f2f;
+}
 .c100.cred2 .bar, .c100.cred2 .fill {
   border-color: #d32f2f !important;
 }
@@ -893,6 +896,9 @@
 }
 
 /* Red 4 */
+.c100.cred4 > span{
+  color: #b71c1c;
+}
 .c100.cred4 .bar, .c100.cred4 .fill {
   border-color: #b71c1c !important;
 }
@@ -907,6 +913,9 @@
 }
 
 /* Amber 4 */
+.c100.camber4 > span{
+  color: #ff6f00;
+}
 .c100.camber4 .bar, .c100.camber4 .fill {
   border-color: #ff6f00 !important;
 }
@@ -921,6 +930,9 @@
 }
 
 /* Blue 2 */
+.c100.cblue2 > span{
+  color: #1976d2;
+}
 .c100.cblue2 .bar, .c100.cblue2 .fill {
   border-color: #1976d2 !important;
 }
@@ -935,6 +947,9 @@
 }
 
 /* Teal 2 */
+.c100.cteal2 > span{
+  color: #00796b;
+}
 .c100.cteal2 .bar, .c100.cteal2 .fill {
   border-color: #00796b !important;
 }
@@ -949,6 +964,9 @@
 }
 
 /* Blue-Grey 2 */
+.c100.cbgrey2 > span{
+  color: #455a64;
+}
 .c100.cbgrey2 .bar, .c100.cbgrey2 .fill {
   border-color: #455a64 !important;
 }
@@ -963,6 +981,9 @@
 }
 
 /* Deep-Orange 2 */
+.c100.cdorange2 > span{
+  color: #e64a19;
+}
 .c100.cdorange2 .bar, .c100.cdorange2 .fill {
   border-color: #e64a19 !important;
 }

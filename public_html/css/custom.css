@@ -19,7 +19,7 @@ main {
 }
 
 blockquote {
-  border-left: 5px solid #b388ff; /* Just change the color value and that's it*/
+  border-left: 5px solid #5c6bc0 ; /* Just change the color value and that's it*/
 }
 
 nav ul a{
@@ -36,10 +36,11 @@ nav ul a{
   transform: scale(1.3);
 }*/
 
-nav ul li.active{
+nav ul li.active a{
+  color: #2e2355;
   background: none;
   text-decoration: underline;
-  text-decoration-color: black;
+  text-decoration-color: #2e2355;
 }
 
 nav ul li a{
@@ -64,7 +65,11 @@ textarea {
 
 .highlight {
   /*color: #2f2356*/
-  color: #b388ff ;
+  color: #5c6bc0;
+}
+
+.standout {
+  color: #ffb74d;
 }
 
 .no-spinners {

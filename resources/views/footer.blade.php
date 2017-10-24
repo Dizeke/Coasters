@@ -1,6 +1,6 @@
 <footer class="strike">
   <span style="padding-left: 32px; padding-right: 32px;"><div>
-    <a href="#"><img src="{{ asset('img/fb-icon.png') }}" style="height: 48px; width: 48px;"></a>
+    <a href="https://www.facebook.com/Coastersph-279589329223794/"><img src="{{ asset('img/fb-icon.png') }}" style="height: 48px; width: 48px;"></a>
     <i style="padding-left: 16px;"></i>
     <a href="/contact-us"><img src="{{ asset('img/email-icon.png') }}" style="height: 48px; width: 48px;"></a>
     <i style="padding-left: 16px;"></i>
